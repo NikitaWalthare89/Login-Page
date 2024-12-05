@@ -10,7 +10,7 @@ public class LaunchChrome {
 		// Initialize the WebDriver
 		WebDriver driver = new ChromeDriver();//Creates an instance of ChromeDriver, which opens a Chrome browser.
 		
-		// Navigate to google
+		// Navigate to google 123
 		driver.get("https://www.google.com");//Navigates to the specified URL (Google in this case).
 		
 		//Maximize the browser
